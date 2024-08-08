@@ -5,6 +5,8 @@ Studied Computer Science @ UMass Lowell <br/>
 Currently learning about the following:
 * Blazor & .NET 8
 * Go
+* Network Programming
+* Docker & Kubernetes
 
 # Tech Stack
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
