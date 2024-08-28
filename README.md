@@ -3,8 +3,8 @@
 Software Engineer w/ 6 yrs exp in .NET development, 4 yrs w/ ASP.NET MVC and Optimizely CMS <br/>
 Studied Computer Science @ UMass Lowell <br/>
 Currently learning about the following:
+* .NET and Blazor
 * Go
-* Network Programming
 * DevOps
 
 # Tech Stack
