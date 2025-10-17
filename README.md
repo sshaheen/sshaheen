@@ -8,6 +8,8 @@ Currently learning about the following:
 * Docker & Kubernetes
 * DevOps Practices & Tools
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshaheen&show_icons=true&theme=tokyonight)
+
 # Technologies I am Currently Learning or Have Experience With
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
