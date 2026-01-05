@@ -2,7 +2,7 @@
 
 Software Engineer w/ 7 yrs of experience  
 Studied Computer Science @ UMass Lowell  
-💻 Looking for a role in DevOps
+💻 Looking for a role in Backend Development or DevOps
 
 # DevOps Tools & Technologies I am excited about!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
